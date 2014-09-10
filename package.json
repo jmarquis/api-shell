@@ -1,0 +1,10 @@
+{
+  "name": "MODULE",
+  "version": "0.1.0",
+  "author": "YOURNAME",
+  "license": "LICENSE",
+  "private": true,
+  "dependencies": {
+    "express": "^4.9.0"
+  }
+}
