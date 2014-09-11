@@ -5,6 +5,7 @@
   "license": "LICENSE",
   "private": true,
   "dependencies": {
-    "express": "^4.9.0"
+    "express": "^4.9.0",
+    "socket.io": "^1.1.0"
   }
 }
